@@ -1,4 +1,7 @@
 Search Engine Clone
+
+
+
 This project is a front-end web application replicating a search engine interface, inspired by Google. It allows users to type in a search query and be redirected to Google’s search results. Additionally, the website provides quick links to popular platforms such as CUIMS, ChatGPT, YouTube, and Amazon.
 
 Features
